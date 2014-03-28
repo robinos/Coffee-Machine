@@ -11,5 +11,5 @@ Main Class: CoffeeMachine
 
 Form Class: CoffeeMachineForm
 
-Other Classes: Machine, Drink, Coffee
+Other Classes: Machine, Drink, Coffee, DrinkDatabase
 
