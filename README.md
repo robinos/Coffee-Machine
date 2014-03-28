@@ -6,6 +6,10 @@ It's a simulated coffee machine with a GUI interface and some database connectiv
 values if no database is available.
 
 Namespace: CoffeeMachineProject
+
 Main Class: CoffeeMachine
+
 Form Class: CoffeeMachineForm
+
 Other Classes: Machine, Drink, Coffee
+
