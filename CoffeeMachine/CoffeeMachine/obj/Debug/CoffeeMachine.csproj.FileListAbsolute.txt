@@ -1,0 +1,11 @@
+c:\users\eliyat\documents\visual studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.CoffeeMachineForm.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachineProject.Properties.Resources.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.GenerateResource.Cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\MySql.Data.dll
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\System.Data.dll
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
